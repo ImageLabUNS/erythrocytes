@@ -23,4 +23,4 @@ To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.
 
 ---
 
-*© 2024 Frixione MAartín.*
+*© 2024 Frixione Martín.*
